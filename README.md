@@ -2,7 +2,7 @@ The Caesar Cipher is one of the simplest and oldest encryption techniques. It is
 How It Works:
 1. Shift: Choose a shift value (e.g., 3).
 2. Encryption: For each letter in the plaintext:
-   - Replace it with the letter that is `shift` positions down the alphabet.
+   - Replace it with the letter that is shift positions down the alphabet.
    - For example, with a shift of 3:
      - 'A' becomes 'D'
      - 'B' becomes 'E'
